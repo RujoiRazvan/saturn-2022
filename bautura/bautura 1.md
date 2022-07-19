@@ -1,3 +1,3 @@
 ## Pina Colada
 
-![Poza Pina Colada](saturn-2022/imagini/pina_colada_1.jpg)
+![Poza Pina Colada](../imagini/pina_colada_1.jpg)
