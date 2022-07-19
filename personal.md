@@ -9,4 +9,5 @@ informatii despre experienta bucatarilor si chelnerilor nostri.
 
 ## Chelneri
 
+[Chelner 1](./personal/chlner1.md)
 
