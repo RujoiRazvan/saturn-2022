@@ -1,7 +1,4 @@
 ## Briose cu afine
-
-
-
 ### Ingrediente:
 
 - faina

@@ -1,11 +1,11 @@
 ## Ice Tea
 
-![Ice Tea] (../imagini/)
+![Ice Tea](../imagini/ice%20tea.jpg)
 
 **Ingrediente:**
 
 - Apa
-- Ceai negur
+- Ceai negru
 - Piersici
 - Lamaie
 - Menta
