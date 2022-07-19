@@ -8,7 +8,7 @@ informatii despre experienta bucatarilor si chelnerilor nostri.
 
 [Gordon](./personal/bucatar_gordon.md)
 
-[Bucatar 2](./personal/bucatar2.md)
+[Ion Zapada](./personal/bucatar2.md)
 
 ## Chelneri
 
