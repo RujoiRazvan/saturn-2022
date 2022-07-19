@@ -9,7 +9,7 @@
 ## [Briose cu afine](mancare/Briose.md)
 ## [Paste carbonara](./mancare/Paste%20carbonara.md)
 
-## [Pizza](./mancare/Pizza.md)
+## [Pizza](mancare/Pizza.md)
 
 
 # Bautura
