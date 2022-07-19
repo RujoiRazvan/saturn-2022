@@ -4,6 +4,8 @@
 ## [Paste napoletane](./mancare/Paste_napoletane.md)
 ## [Briose cu afine](mancare/Briose.md)
 
+## [Bautura 2](./bautura/bautura2.md)
+
 # Bautura
 <<<<<<< HEAD
 
