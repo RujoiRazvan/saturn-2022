@@ -1,7 +1,7 @@
 ## Paste Carbonara
 
 
-![]
+![mylink](./imagini/paste_carbonara.jpg)
 
 
 ### Ingrediente
