@@ -14,3 +14,5 @@ informatii despre experienta bucatarilor si chelnerilor nostri.
 ## Chelneri
 
 [Bog Dan](./personal/chelner_bog_dan.md)
+
+[Popescu Andrei](./personal/chlner1.md)
