@@ -17,13 +17,6 @@
 ## [Limonada cu fructe de padure](../bautura/Limonada_cu_fructe_de_padure.md)
 ## [Ice Tea](./bautura/Ice%20Tea.md)
 
-<<<<<<< HEAD
-=======
-## [Pina Colada](./bautura/bautura%201.md)
->>>>>>> cff5c4ad01c9526c0087c748cd22a3a0fa2fce57
-=======
 ## [Pina Colada](./bautura/Pina_Colada.md)
->>>>>>> 996d5483bb3eeed2d34b9c756e8312e623889820
-
  
 README se vede [aici](./README.md)
