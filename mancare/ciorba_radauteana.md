@@ -1,6 +1,6 @@
 ## Ciorba radauteana
 
-# Ingrediente
+### Ingrediente
 - Carne de pui
 - Smantana
 - Ou
