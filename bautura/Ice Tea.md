@@ -5,7 +5,7 @@
 **Ingrediente:**
 
 - Apa
-- Ceai negur
+- Ceai negru
 - Piersici
 - Lamaie
 - Menta
