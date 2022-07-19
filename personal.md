@@ -10,7 +10,7 @@ informatii despre experienta bucatarilor si chelnerilor nostri.
 
 [Ion Zapada](./personal/bucatar2.md)
 
-[Bucatar3](./personal/bucatar3.md)
+[Firicel](./personal/bucatar3.md)
 ## Chelneri
 
 [Bog Dan](./personal/chelner_bog_dan.md)
