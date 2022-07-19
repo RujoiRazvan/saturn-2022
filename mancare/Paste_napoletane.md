@@ -1,6 +1,6 @@
 ## Paste napoletane 
 
-//[poza aici]
+![paste](./../imagini/paste_napoletane.jpg)
 
 ### Ingrediente 
 - Paste fussili
