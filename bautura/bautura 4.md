@@ -1,11 +1,10 @@
 
 ## Milkshake de ciocolată și căpșuni
 
-![Poza milkshake delicios](saturn-2022/bautura/Milkshake.jpg "Milkshake ciocolata si capsuni")
+//poza aici
 
 ### Ingrediente:
 1. Lapte
 2. Gheață mărunțită
 3. Sirop de ciocolată
 4. Căpșnuni tăiate
-
