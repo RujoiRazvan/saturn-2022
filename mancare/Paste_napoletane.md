@@ -2,7 +2,7 @@
 
 //[poza aici]
 
-# Ingrediente 
+### Ingrediente 
 - Paste fussili
 - Ceapă
 - Ulei de măsline
