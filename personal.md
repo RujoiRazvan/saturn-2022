@@ -6,6 +6,7 @@ informatii despre experienta bucatarilor si chelnerilor nostri.
 ## Bucatari
 
 [Gordon](./personal/bucatar_gordon.md)
+
 [Bucatar 2](./personal/bucatar2.md)
 
 ## Chelneri
