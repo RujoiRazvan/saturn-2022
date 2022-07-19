@@ -16,10 +16,11 @@
 ## [Paste carbonara](./mancare/Paste%20carbonara.md)
 <<<<<<< HEAD
 
-## [Bautura 2](./bautura/bautura2.md)
+
 
 # Bautura
 <<<<<<< HEAD
+## [Bautura 2](./bautura/bautura2.md)
 
 ## [Limonada cu fructe de padure](../bautura/Limonada_cu_fructe_de_padure.md)
 ## [Ice Tea](./bautura/Ice%20Tea.md)
