@@ -1,6 +1,6 @@
 ## Ciorba radauteana
 
-// poza aici
+![Ciorba radauteana](../imagini/ciorba-radauteana.webp)
 
 ### Ingrediente
 - Carne de pui

@@ -1,7 +1,6 @@
 ## Paste Carbonara
 
-
-![https://github.com/dezGusty/saturn-2022/blob/main/imagini/paste_carbonara.jpg?raw=true]
+![alt](./../imagini/paste_carbonara.jpg)
 
 ### Ingrediente
 
