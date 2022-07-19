@@ -1,6 +1,6 @@
 ## Liomanda cu fructe de padure ##
 
-![Limonada] (../imagini/limonada_cu_fructe_de_padure.png)
+![Limonada](../imagini/limonada_cu_fructe_de_padure.png)
 
 **Ingrediente:**
 
