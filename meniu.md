@@ -23,7 +23,7 @@
 <<<<<<< HEAD
 ## [Bautura 2](./bautura/bautura2.md)
 
-## [Limonada cu fructe de padure](../bautura/Limonada\ cu\ fructe\ de\ padure.md)
+## [Limonada cu fructe de padure](../bautura/Limonada_cu_fructe_de_padure.md)
 ## [Ice Tea](./bautura/Ice%20Tea.md)
 =======
 ## [Pina Colada](./bautura/bautura%201.md)
