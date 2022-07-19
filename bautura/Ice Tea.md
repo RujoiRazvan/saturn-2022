@@ -1,6 +1,6 @@
 ## Ice Tea
 
-[Ice Tea] (..\imagini\ice tea.jpg)
+![Ice Tea](../imagini/ice%20tea.jpg)
 
 **Ingrediente:**
 
