@@ -1,3 +1,5 @@
+# MENIU
+
 # Mancare
 
 ## [Ciorba radauteana](./mancare/ciorba_radauteana.md)
@@ -17,6 +19,5 @@
 
 ## [Pina Colada](./bautura/Pina_Colada.md)
 
-# MENIU
  
 README se vede [aici](./README.md)
