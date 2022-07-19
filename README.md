@@ -5,5 +5,5 @@ pseudo-site pentru un restaurant
 ## sub-capitol
 
 Aici vor fi de adăugat chestii...
-MENIUL se vede [aici] (./meniu.md)
+MENIUL se vede [aici](./meniu.md)
 
